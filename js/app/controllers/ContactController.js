@@ -5,7 +5,7 @@ function ContactController() {
     },{
         name: 'Tim',
         phone: '3934203242'
-    }.{
+    },{
         name: 'Ross',
         phone: '0684059433'
     }];
